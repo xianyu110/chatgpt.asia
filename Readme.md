@@ -1,9 +1,7 @@
 # ChatGPT 国内官网（非套壳）
 
 ## 使用谷歌浏览器
-推荐使用新站点，送额外时长/claude3.5 sonnet：
-
-（江苏福建地区打不开，需要魔法）
+推荐使用新站点，送额外时长/claude3.5 sonnet：（江苏福建地区打不开，需要魔法）
 
 https://new.chatgpt-plus.top/
 
