@@ -1,8 +1,5 @@
-**网站声明：本站仅用于工作学习，不得违反国家法律法规，严格禁止用户涉政，否则后果自负。已开启敏感词屏蔽,自动屏蔽违规内容**
 
-plus账号区才支持4.0和4o 画图需要购买授权码，可以注册免费体验**,已有800+付费用户**。GPT玩法交流QQ群 **[621792125](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0QQTpnZ3K0C4_jahP_Ya4E1cHRgc1-Gj&authKey=G7X0OOzafK%2BR5tKt27F90qOv4lVOCb7piB8dO%2FiWVHUJg8kMRMsr7LeZomJ29r%2B9&noverify=0&group_code=621792125)**；qq 1002569303
 
-诚招代理：[ChatGPT/Claude中国代理分销计划](https://a7uxmstk6o.feishu.cn/docx/XQDqdZjOeo3WmjxWt3FcdLhjnMc)
 
 ## 功能支持
 
