@@ -1,3 +1,18 @@
+# ChatGPT 国内官网（非套壳）
+
+## 使用谷歌浏览器
+推荐使用新站点，送额外时长/claude3.5 sonnet：（江苏福建地区打不开，需要魔法）
+https://new.chatgpt-plus.top/
+
+旧站点：
+http://chatgpt-plus.top/
+
+
+
+如果网站依然打不开，请联系QQ客服处理：1002569303 
+
+
+店铺地址：https://717ka.com/shop/olrw827s1gys0g0lldyug
 
 
 
@@ -226,3 +241,20 @@ A7：每天可以使用300次gpt4.0/4o，目的是为了用户体验能更高，
 Q8：为什么我都开了会员了，还提示没有次数了，要等到xx点才能恢复
 
 A8：因为您当前所处的Plus账号没次数，需要切换账号使用，请您看文档上面的换车功能介绍。
+
+
+# ChatGPT 国内官网（非套壳）
+
+## 使用谷歌浏览器
+推荐使用新站点，送额外时长/claude3.5 sonnet：（江苏福建地区打不开，需要魔法）
+https://new.chatgpt-plus.top/
+
+旧站点：
+http://chatgpt-plus.top/
+
+
+
+如果网站依然打不开，请联系QQ客服处理：1002569303 
+
+
+店铺地址：https://717ka.com/shop/olrw827s1gys0g0lldyug
