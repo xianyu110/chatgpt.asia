@@ -238,7 +238,7 @@ P1us账号4.0的限制是每3小时40次（官网的限制）
 
 ## 年卡有什么特殊的,包年的可以做什么？
 
-现在包年赠送微信机器人、赠送独立网站99%还原官网 独立线路更稳定 ,。
+现在包年赠送微信机器人、赠送独立网站99%还原官网 独立线路更稳定。
 
 ![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MjQ1ZTA3MWM4MWZiNWM1YTcwMzJhZDRmNjMxZjQxOTNfNld6VnR5a2sxV1NzR2RHNFlRYWFLdWhYdjd1a0Vjd2dfVG9rZW46V3Q3NmJmbEc1b1lxZVJ4TzlXcGNvdFZDbkdkXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
