@@ -2,7 +2,7 @@
 
 1、plus账号区才支持4.0和4o 画图需要购买授权码，可以注册免费体验,已有2000+付费用户
 
-2.服务保障：站长科技博主Maynor,全网粉丝10w+, 推荐我的专栏[《ChatGPT精选》](https://blog.csdn.net/xianyu120/category_12693018.html)[《带你用GPT搞钱》](https://xiaobot.net/p/maynorai1?refer=711afd77-b132-45de-a4c8-4594efc9a9d7) GPT玩法交流QQ群 [621792125](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0QQTpnZ3K0C4_jahP_Ya4E1cHRgc1-Gj&authKey=G7X0OOzafK%2BR5tKt27F90qOv4lVOCb7piB8dO%2FiWVHUJg8kMRMsr7LeZomJ29r%2B9&noverify=0&group_code=621792125)；qq 1002569303;年卡用户送微信助理 Claude3.5 sonnet
+2.服务保障：站长科技博主Maynor,全网粉丝10w+, 推荐我的专栏[《ChatGPT精选》](https://blog.csdn.net/xianyu120/category_12693018.html)[《带你用GPT搞钱》](https://xiaobot.net/p/maynorai1?refer=711afd77-b132-45de-a4c8-4594efc9a9d7) GPT玩法交流QQ群 [621792125](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0QQTpnZ3K0C4_jahP_Ya4E1cHRgc1-Gj&authKey=G7X0OOzafK%2BR5tKt27F90qOv4lVOCb7piB8dO%2FiWVHUJg8kMRMsr7LeZomJ29r%2B9&noverify=0&group_code=621792125)；qq 1002569303;年卡用户送微信助理/Claude3.5 sonnet
 
 3.GPT功能：知识问答、帮写文案、AI图片生成、毕设去重、精读分析PDF+Word、写PPT、BUG解决、帮写代码、设计网站、数学建模...  
 
@@ -238,7 +238,7 @@ P1us账号4.0的限制是每3小时40次（官网的限制）
 
 ## 年卡有什么特殊的,包年的可以做什么？
 
-现在包年赠送微信机器人、赠送独立网站99%还原官网 独立线路更稳定。
+现在包年赠送微信机器人、Claude3.5 sonnet。
 
 ![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MjQ1ZTA3MWM4MWZiNWM1YTcwMzJhZDRmNjMxZjQxOTNfNld6VnR5a2sxV1NzR2RHNFlRYWFLdWhYdjd1a0Vjd2dfVG9rZW46V3Q3NmJmbEc1b1lxZVJ4TzlXcGNvdFZDbkdkXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
