@@ -1,23 +1,18 @@
-# ChatGPT 国内官网（非套壳）
+网站声明：本站仅用于工作学习，不得违反国家法律法规，严格禁止用户涉政，否则后果自负。已开启敏感词屏蔽,自动屏蔽违规内容
 
-## 使用谷歌浏览器
-推荐使用新站点，送额外时长/claude3.5 sonnet：（江苏福建地区打不开，需要魔法）
+1、plus账号区才支持4.0和4o 画图需要购买授权码，可以注册免费体验,已有2000+付费用户
 
-https://new.chatgpt-plus.top/
+2.服务保障：站长科技博主Maynor,全网粉丝10w+, 推荐我的专栏[《ChatGPT精选》](https://blog.csdn.net/xianyu120/category_12693018.html)[《带你用GPT搞钱》](https://xiaobot.net/p/maynorai1?refer=711afd77-b132-45de-a4c8-4594efc9a9d7) GPT玩法交流QQ群 [621792125](http://qm.qq.com/cgi-bin/qm/qr?_wv=1027&k=0QQTpnZ3K0C4_jahP_Ya4E1cHRgc1-Gj&authKey=G7X0OOzafK%2BR5tKt27F90qOv4lVOCb7piB8dO%2FiWVHUJg8kMRMsr7LeZomJ29r%2B9&noverify=0&group_code=621792125)；qq 1002569303;年卡用户送微信助理 Claude3.5 sonnet
 
-旧站点：
-http://chatgpt-plus.top/
+3.GPT功能：知识问答、帮写文案、AI图片生成、毕设去重、精读分析PDF+Word、写PPT、BUG解决、帮写代码、设计网站、数学建模...  
 
+推荐使用谷歌浏览器，重要数据及时保存！
 
+诚招代理：[ChatGPT/Claude中国代理分销计划](https://a7uxmstk6o.feishu.cn/docx/XQDqdZjOeo3WmjxWt3FcdLhjnMc)
 
-如果网站依然打不开，请联系QQ客服处理：1002569303 
+客户端下载:
 
-
-店铺地址：https://717ka.com/shop/olrw827s1gys0g0lldyug
-
-
-
-## 功能支持
+链接：https://pan.baidu.com/s/1pd7NPW4JXQNpx7s9j6zSJw?pwd=fygy 
 
 ◦ 使用体验与官网完全一致，可及时体验官网新功能。
 
@@ -41,6 +36,14 @@ http://chatgpt-plus.top/
 
 ◦ 功能更全面，使用体验更好。
 
+## 技术原理
+
+◦ 选用反向代理官网解决方案，作为中间人转发用户请求和响应，实现免梯目的。
+
+◦ 接管部分官网功能，本地化部分接口，使用的不是官网账号。
+
+正如前面所说：您就是在实时的使用官网。
+
 ## 为什么选我们？
 
 1. 使用官网需要翻墙，大部分学校/企业发现此类行为会被处以重罚，甚至开除！
@@ -60,7 +63,7 @@ http://chatgpt-plus.top/
 
 登录网站 ：https://new.chatgpt-plus.top/ 提示暂未登录，注册一个账号，登录即可
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646611.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=OGE1NGE2MWNiZDY1MWVlNzgxNjAwMDEwMzg4MTgxODdfbTM3WlpKcE9rQXN2RFNvemxHUjR3Ykd4Qnl6N0toSFBfVG9rZW46VFpmc2JxNVNYb3ZiZ0x4blE4cGM3QmZTblBnXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 # 一、GPT&Claude网站
 
@@ -68,11 +71,11 @@ http://chatgpt-plus.top/
 
 有免费节点/4o节点/Plus节点/Claude节点，付费用户可使用gpt4和claude sonnet3.5 ，介绍如下：
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646737.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=OGY1MTQwNDgxMTljZTdmYTQyYWMzYTE3ZjJiMGEzYTFfUk1MRXBlWG45aDhxcExoajhtbXk1WFoxRXR5MGRFZ0pfVG9rZW46RW5CS2JYa2lkb3pWbHl4a00ya2MxVVFQblJoXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ## 如何购买？
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646850.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=OGE2NGRiZDZhMzg0NzkyMDIwZGM2MDU4NmExOGY4MzdfTmpCbFJ4WmxsQkg4anV6STdDZEp6YkU5YVZZbjdQaGNfVG9rZW46U0JUbGJYUUJWb1NORkJ4Y0pCTmN3NlQ1bkplXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 在平台购买授权码后平台会自动发货:
 
@@ -80,7 +83,7 @@ https://717ka.com/c/1y92g10mc69mzaoy584dqc4
 
 点击紫色的节点，有空闲、繁忙和不可用三种状态。选择任一空闲节点即可。购买后您会得到一张卡密,示例如下:
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646514.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=YWQ1ZjcyZWFmM2U4Mjg3NGZjOTY0MDIzZjdmMDQ0ODdfUjdTcHpYajhqOEVJbTNuUVB3d0FuaUgxRUkwcldwdlpfVG9rZW46TkUzQ2JJeDlyb3lzNkJ4TnR4UmNZNmhmbnlmXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 在https://new.chatgpt-plus.top/list 网站填写，输入购买的授权码，即可开始使用。授权码示例：b537dca9-3279-4fe7-a6d7-e8bee7xxxxx
 
@@ -114,19 +117,19 @@ https://717ka.com/c/1y92g10mc69mzaoy584dqc4
 
 ◦ 接管部分官网功能，本地化部分接口，使用的不是官网账号。
 
-**正如前面所说：您就是在实时的使用官网。**
+正如前面所说：您就是在实时的使用官网。
 
 # 二、GPT&Claude使用教程
 
 ## GPT&Claude网站页面介绍
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646762.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=NjNlZDdkZDM5ZDEyODg4YzdlMDdjN2JjODAyY2M2ZjBfNDgxdVpaWk00VFNydmRXYmFGMFBseFU3dGNGVXdQUWZfVG9rZW46TW1yYmIwOWV5b2R2Sml4bzhFdGM0TW5RbnV4XzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 个人中心可查看账号时间，修改密码：
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646520.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=YWMxY2QyYWY2NDU5ZjQyNWM2ZjRlNzJkNDZjY2Y4ODFfOEhWT2RYYzQxNXdEaGJveWFDNUxaZjdKOWVEcEpWNDhfVG9rZW46WkhaaGI3VXZ1bzZJZ1l4NUduc2NzOEtzbkJlXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646920.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=Nzk3NTVlYmZiNDJjY2M0Y2E0NjIwNGQwYjBjNjIyMWJfZ2VBNjFVcmJpT2NhckZEYnpUZGxNNXNwWGxGT2tPQ0lfVG9rZW46RHo3aWIyNmtab3pZeEp4Vk5uMWM4S3g4bmNsXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 # 三、换车操作
 
@@ -144,45 +147,73 @@ P1us账号4.0的限制是每3小时40次（官网的限制）
 
 状态为翻车丨不可用，代表该账号已下线。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646347.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=M2Q1YTk3ZDcyNDY3YTQxOWVjNmI5NTRmNmViZDE1Y2FfZjB5ODFHWmh4NUdrTXF4S2pYVFVjdTQxeHlrSFBIRmJfVG9rZW46UVRhVGJwUEIzb2R6eTl4VFRqaGNNNldXblNiXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 当您在使用过程中，遇见当前账号使用次数耗尽时（如下图）,此时需要您点击右上角的换车按钮，回到上车界面选择其他账号。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646866.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MGQ1MWRkMzdmNzcyNDBmMTY0N2Y5ODNlNDkwNmQyYjZfTmhpWEwyOUlZY2swODBlVHIyWmo3a0JCNG93bXBhVlhfVG9rZW46VkdBZ2JiQ3pHb0Q2aGl4YTFmcWN4QndDbnRkXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 # 四、定期保存历史对话（重要！）
 
 部分内置的gpt账号也会被官网封号（不可抗力），也就是后台账号翻车的情况，那么曾经在该账号所进行的对话自然也会一同下线（如下图）。所以定期备份聊天记录非常重要
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646631.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MjJmY2NhNWFmNzA3NWI1YTQwZTUyMzYwMGJkZmI0NmRfUGgxM1lmaVhPRWxLOFlXZzdDa2U4bTlpckJ5dGhHY3VfVG9rZW46UzBBOWJNVmd4bzBjUE94THQxbmNPbTZRbkJiXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ### 如何保存历史对话？
 
 1. 我们打开对话界面一一使用快捷键Ctrl+P即可将对话进行保存。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646780.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=YjBjMmMzYjQ3MTRiMThjYjhjY2IyODE4MGU4MmMyNWZfYzlWZ3o0dGlDSUdudmkxQVBramZHd3NxNkhNZDd0UEpfVG9rZW46TVhNdmJiMnZrb0s2YmV4ZjhwZWNRMWdqbjNjXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
-1. 点击右下角 >_ 里面有个复制文本，把文本复制过来，重新开个号，新建对话粘贴上，就可以连续对话
+2.左侧三点点一下 调试，右侧复制文本
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646723.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=YzY4NzQ3MmNiZThiZmQ4MWQ0OTI4MzY5YjE5NTdiNGVfblRZeThvR1BhWXpUVWRDdXNpNDY1Yk45azU1RTVxdnNfVG9rZW46QnUyRGIxUkRPbzdXZ0d4YkEwYmNpUUVjbmtiXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 1. 全选对话Ctrl+c进行复制。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646005.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=ZmM3YTk5MDQ2MjRjNjQ3MWE3Mzc5ZDA4NDJmNjFhYjlfUXpsSU5zZFo1UG9JZ1NpQ0Jra3Nmek5kRGpFZVZUc0VfVG9rZW46UGp0QWJNN1B6b21pMzF4M3JOY2NoYm0yblplXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 # 五、网站常见问题
+
+## 网页正常打开，无节点可以选择？
+
+这种情况一般是账号被openai强制改密，重新补充账号即可
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=OTI1ZTVmMTM1ZWM4YmI3MGFiNzRlMDRmZTA3MzU4ZWFfUEh6c0poTEtnWEgwZGw3eEVUOFVnbHRDVVJYa3B0WGdfVG9rZW46QlNsWmJOa1kyb0ZHSjl4cDNIU2NVMElEbmljXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
+
+## 语音如何修改？
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=NGQ5Y2M0YzNiNzE3NjIxODZhZWU0YzlkMzNkYWE2ZDlfU01rYXlTSThMdlh3MDhxR0JGQnM1UEpvaEczejhoaTdfVG9rZW46S0VPNmJ2b0x5b25wNWN4SExVSGM4ZHZxbnVlXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=NjYxYTg3ZGE2MWJkZTU3YThiNzNjN2ViY2YxMjMyODFfM1lDRUpKUFRlQWt5U2xRZjBZbDdOUGF1VUZSOEFITVJfVG9rZW46VkVQU2JPcEN5b0U0cmJ4a2JOTGM4VVRJblBkXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
+
+## Something went wrong while generating the response.
+
+出现此类错误 新建一个对话 重新试试 原因是被封号了
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MGJlMmQ3YWFjNGVlMmIyN2I0MGVlN2MxZDFhOWQ3ZDJfaURjNEtGM3g5OFhuUGNJSDRpR0x1Qjk5TDNOM244azRfVG9rZW46S0p6dWJJREk4b3BseW14TmdiSGNhZnFkbmZmXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
+
+## 高级会员的300次使用次数是每天刷新吗
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MDY2MDFjNTM0Mzk2OTQ0NWJjODk1NzNiMGQ5YzFhYTVfYVNlN0ZHU0dBdzJMSFBTdVc3UkFWNUFRR3dzd1Nsc1VfVG9rZW46S3pRa2I1VHQ3b0JaNGN4Ukp0eGNzaU02bmNnXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
+
+## 系统繁忙，请稍后重试
+
+用 https://chatgpt-plus.top/ 这个网站
+
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=NTEwMWNlZWQ2YzliYjI3ZmI2ZTU4ZmRkMzhjYjA2NThfSUhQaUM2SXlmZlBZR3Y1OVlBU21pVE9WV3o4SzZHdWhfVG9rZW46U21BRGJIU0RCbzBXOVB4RFU4T2NUSWV2bnRlXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ## ChatgptPlus用到哪种模型？
 
 使用最新的gpt4o模型。4.0和4o都可以使用。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646316.webp)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=ODQ4NzFhYmQ4NDM0YmI2ZjQ4M2Q2MGUzNjA4MWNiZTJfSTdHazc2VGFZTnRMWHVqekQyclRQS3lMMW5kMkhrTThfVG9rZW46U2RkVGJEa0Eyb0pVeXd4UFJTRWM5UlVlblRoXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ## 账号是独享的嘛？聊天记录别人能不能看到？
 
 1. 在平台购买的授权码都是独享的，一人一个授权码，聊天记录别人看不到。一天授权码是共享的,聊天记录可被看到。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646357.webp)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=YjY5MmUzMTNlNzIxZDdjZmRhMzMyOTQwZmM5NTRjNjZfWVloZ2lNRUFnSWhLTjR3QzJnc09CMWpyd2RpdTkzNU9fVG9rZW46QUNhdmJVaWh2bzJyMTZ4ZXNiSGNpV0U1bjZlXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ## 节点挂了如何一键复制之前的对话到新节点？
 
@@ -195,9 +226,9 @@ P1us账号4.0的限制是每3小时40次（官网的限制）
 
 ## GPT4o降智问题
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646601.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=NjFhYjc2YTlmMzg3MTQwNmNlZmVkYTM1YWU5M2Y0ZTdfZ2QxOVhBajl5eFZsekhmdjd2QnZteXFwVm1ucDZlTlZfVG9rZW46V0lzNmJDTkJLb3o1dUh4Y0J0eGN2cUF4bmJlXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646732.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=N2I3NWE0NTllMTU3YTMyOTJkMzA1ZjM2YWU1MDE0YzdfcGNMcU9xRmJPNkRGNnlJdXNsdU9XcTZsdmpRaWxtNmtfVG9rZW46WWZDMmJ0NXJLbzd4Y254a3VhNWNVcTNrbmJnXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 让他生成图片看看，是不是降智了，如果不能生成图片那就是被降智的gpt4o ,右上角换个号
 
@@ -209,7 +240,7 @@ P1us账号4.0的限制是每3小时40次（官网的限制）
 
 现在包年赠送微信机器人、赠送独立网站99%还原官网 独立线路更稳定 ,。
 
-![img](https://restname.oss-cn-hangzhou.aliyuncs.com/202409091646694.png)
+![img](https://a7uxmstk6o.feishu.cn/space/api/box/stream/download/asynccode/?code=MjQ1ZTA3MWM4MWZiNWM1YTcwMzJhZDRmNjMxZjQxOTNfNld6VnR5a2sxV1NzR2RHNFlRYWFLdWhYdjd1a0Vjd2dfVG9rZW46V3Q3NmJmbEc1b1lxZVJ4TzlXcGNvdFZDbkdkXzE3MzEyOTIzMzE6MTczMTI5NTkzMV9WNA)
 
 ## 其他问题
 
@@ -243,19 +274,10 @@ Q8：为什么我都开了会员了，还提示没有次数了，要等到xx点�
 
 A8：因为您当前所处的Plus账号没次数，需要切换账号使用，请您看文档上面的换车功能介绍。
 
+# MaynorAIGC知识库 
 
-# ChatGPT 国内官网（非套壳）
+[MaynorAIAIGC知识库 ](https://a7uxmstk6o.feishu.cn/wiki/RfSpwEt3Ui99ogk0sOycihiench)
 
-## 使用谷歌浏览器
-推荐使用新站点，送额外时长/claude3.5 sonnet：（江苏福建地区打不开，需要魔法）
-https://new.chatgpt-plus.top/
+# GPTS商店
 
-旧站点：
-http://chatgpt-plus.top/
-
-
-
-如果网站依然打不开，请联系QQ客服处理：1002569303 
-
-
-店铺地址：https://717ka.com/shop/olrw827s1gys0g0lldyug
+[ChatGPT不会使用？还在迷茫？这155个GPTS能帮你轻松上手！](https://a7uxmstk6o.feishu.cn/docx/QlVYd4f2uo3OrExYyedcVqSbnhd?from=from_copylink)
