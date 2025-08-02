@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ChatGPT.Asia - 国内访问指南",
+    "description": "ChatGPT国内使用完全指南，提供稳定的访问方案和详细教程"
+  },
+  "header": {
+    "title": "ChatGPT.Asia",
+    "subtitle": "国内最稳定的ChatGPT访问方案",
+    "heroText": "🤖 智能对话新体验"
+  },
+  "features": {
+    "title": "服务特色",
+    "items": [
+      "无需翻墙直连",
+      "支持GPT-4和GPT-4o",
+      "24小时稳定服务",
+      "多平台同步使用",
+      "专业技术支持"
+    ]
+  },
+  "guide": {
+    "title": "使用教程",
+    "sections": [
+      {
+        "title": "购买使用码",
+        "content": "选择合适的套餐，获取专属使用码"
+      },
+      {
+        "title": "访问平台",
+        "content": "通过专用链接访问ChatGPT服务"
+      },
+      {
+        "title": "开始对话",
+        "content": "输入使用码，享受AI对话体验"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "套餐价格",
+    "plans": [
+      {
+        "name": "体验版",
+        "price": "9.9",
+        "duration": "7天",
+        "features": ["基础GPT-4访问", "每日100次对话", "标准响应速度"]
+      },
+      {
+        "name": "标准版", 
+        "price": "29.9",
+        "duration": "30天",
+        "features": ["完整GPT-4功能", "无限次对话", "优先响应速度", "技术支持"]
+      },
+      {
+        "name": "专业版",
+        "price": "99.9", 
+        "duration": "365天",
+        "features": ["GPT-4 + GPT-4o", "无限次对话", "最高响应速度", "专属客服", "API接口"]
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题",
+    "items": [
+      {
+        "question": "服务是否稳定？",
+        "answer": "我们提供7x24小时稳定服务，多节点冗余保障"
+      },
+      {
+        "question": "支持哪些设备？",
+        "answer": "支持手机、电脑、平板等所有设备的浏览器访问"
+      },
+      {
+        "question": "如何获取技术支持？",
+        "answer": "提供在线客服和技术群，快速解决问题"
+      }
+    ]
+  },
+  "contact": {
+    "title": "联系方式",
+    "wechat": "微信客服",
+    "telegram": "Telegram群组",
+    "email": "邮箱支持"
+  },
+  "footer": {
+    "copyright": "© 2025 ChatGPT.Asia. 保留所有权利",
+    "disclaimer": "本服务仅供学习交流使用"
+  },
+  "ui": {
+    "languageSelector": "选择语言",
+    "buyNow": "立即购买",
+    "getStarted": "开始使用",
+    "learnMore": "了解更多",
+    "contactUs": "联系我们"
+  }
+}

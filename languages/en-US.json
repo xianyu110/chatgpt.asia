@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ChatGPT.Asia - China Access Guide",
+    "description": "Complete ChatGPT access guide for China users with stable solutions and detailed tutorials"
+  },
+  "header": {
+    "title": "ChatGPT.Asia",
+    "subtitle": "Most Stable ChatGPT Access Solution in China",
+    "heroText": "🤖 New AI Conversation Experience"
+  },
+  "features": {
+    "title": "Service Features",
+    "items": [
+      "Direct access without VPN",
+      "Support GPT-4 and GPT-4o",
+      "24/7 stable service",
+      "Multi-platform synchronization",
+      "Professional technical support"
+    ]
+  },
+  "guide": {
+    "title": "User Guide",
+    "sections": [
+      {
+        "title": "Purchase Access Code",
+        "content": "Choose the right plan and get your exclusive access code"
+      },
+      {
+        "title": "Access Platform",
+        "content": "Visit ChatGPT service through dedicated link"
+      },
+      {
+        "title": "Start Conversation",
+        "content": "Enter access code and enjoy AI conversation experience"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Pricing Plans",
+    "plans": [
+      {
+        "name": "Trial",
+        "price": "$1.5",
+        "duration": "7 days",
+        "features": ["Basic GPT-4 access", "100 chats per day", "Standard response speed"]
+      },
+      {
+        "name": "Standard", 
+        "price": "$4.5",
+        "duration": "30 days",
+        "features": ["Full GPT-4 features", "Unlimited chats", "Priority response speed", "Technical support"]
+      },
+      {
+        "name": "Professional",
+        "price": "$15",
+        "duration": "365 days",
+        "features": ["GPT-4 + GPT-4o", "Unlimited chats", "Fastest response", "Dedicated support", "API access"]
+      }
+    ]
+  },
+  "faq": {
+    "title": "FAQ",
+    "items": [
+      {
+        "question": "Is the service stable?",
+        "answer": "We provide 24/7 stable service with multi-node redundancy"
+      },
+      {
+        "question": "What devices are supported?",
+        "answer": "Support all devices with browser access including phones, computers, tablets"
+      },
+      {
+        "question": "How to get technical support?",
+        "answer": "Online customer service and technical groups available for quick problem resolution"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contact",
+    "wechat": "WeChat Support",
+    "telegram": "Telegram Group",
+    "email": "Email Support"
+  },
+  "footer": {
+    "copyright": "© 2025 ChatGPT.Asia. All rights reserved",
+    "disclaimer": "This service is for educational and communication purposes only"
+  },
+  "ui": {
+    "languageSelector": "Select Language",
+    "buyNow": "Buy Now",
+    "getStarted": "Get Started",
+    "learnMore": "Learn More",
+    "contactUs": "Contact Us"
+  }
+}
