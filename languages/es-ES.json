@@ -1,0 +1,95 @@
+{
+  "meta": {
+    "title": "ChatGPT.Asia - Guía de Acceso para China",
+    "description": "Guía completa de acceso a ChatGPT para usuarios chinos con soluciones estables y tutoriales detallados"
+  },
+  "header": {
+    "title": "ChatGPT.Asia",
+    "subtitle": "La Solución de Acceso a ChatGPT Más Estable en China",
+    "heroText": "🤖 Nueva Experiencia de Conversación AI"
+  },
+  "features": {
+    "title": "Características del Servicio",
+    "items": [
+      "Acceso directo sin VPN",
+      "Soporte GPT-4 y GPT-4o",
+      "Servicio estable 24/7",
+      "Sincronización multiplataforma",
+      "Soporte técnico profesional"
+    ]
+  },
+  "guide": {
+    "title": "Tutorial de Uso",
+    "sections": [
+      {
+        "title": "Comprar Código de Acceso",
+        "content": "Elige el plan adecuado y obtén tu código de acceso exclusivo"
+      },
+      {
+        "title": "Acceder a la Plataforma",
+        "content": "Visita el servicio ChatGPT a través del enlace dedicado"
+      },
+      {
+        "title": "Iniciar Conversación",
+        "content": "Ingresa el código de acceso y disfruta de la experiencia de conversación AI"
+      }
+    ]
+  },
+  "pricing": {
+    "title": "Planes de Precios",
+    "plans": [
+      {
+        "name": "Prueba",
+        "price": "€1.5",
+        "duration": "7 días",
+        "features": ["Acceso básico GPT-4", "100 chats por día", "Velocidad de respuesta estándar"]
+      },
+      {
+        "name": "Estándar", 
+        "price": "€4.5",
+        "duration": "30 días",
+        "features": ["Funciones completas GPT-4", "Chats ilimitados", "Velocidad de respuesta prioritaria", "Soporte técnico"]
+      },
+      {
+        "name": "Profesional",
+        "price": "€15",
+        "duration": "365 días",
+        "features": ["GPT-4 + GPT-4o", "Chats ilimitados", "Respuesta más rápida", "Soporte dedicado", "Acceso API"]
+      }
+    ]
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes",
+    "items": [
+      {
+        "question": "¿Es estable el servicio?",
+        "answer": "Proporcionamos servicio estable 24/7 con redundancia multi-nodo"
+      },
+      {
+        "question": "¿Qué dispositivos son compatibles?",
+        "answer": "Soportamos acceso por navegador en todos los dispositivos incluyendo teléfonos, computadoras, tabletas"
+      },
+      {
+        "question": "¿Cómo obtener soporte técnico?",
+        "answer": "Atención al cliente en línea y grupos técnicos disponibles para resolución rápida de problemas"
+      }
+    ]
+  },
+  "contact": {
+    "title": "Contacto",
+    "wechat": "Soporte WeChat",
+    "telegram": "Grupo Telegram",
+    "email": "Soporte por Email"
+  },
+  "footer": {
+    "copyright": "© 2025 ChatGPT.Asia. Todos los derechos reservados",
+    "disclaimer": "Este servicio es solo para fines educativos y de comunicación"
+  },
+  "ui": {
+    "languageSelector": "Seleccionar Idioma",
+    "buyNow": "Comprar Ahora",
+    "getStarted": "Comenzar",
+    "learnMore": "Saber Más",
+    "contactUs": "Contáctanos"
+  }
+}
